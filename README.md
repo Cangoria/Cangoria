@@ -1,16 +1,16 @@
-## Hi there 👋
+# Cangoria
 
-<!--
-**Cangoria/Cangoria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Working at the intersection of medical history, classical texts, and reproducible research.
 
-Here are some ideas to get you started:
+## Research interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- History of medicine and classical medical literature
+- Early Chinese medicine, especially Han–Tang textual traditions
+- Classical acupuncture and needling literature
+- Structured textual data, provenance, and reproducible workflows
+
+## Approach
+
+**Source-centered · Citation-aware · Versioned · Auditable**
+
+> Reading old texts carefully; building modern tools quietly.

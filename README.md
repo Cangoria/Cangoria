@@ -26,6 +26,10 @@ I also practise acupuncture and herbal medicine, and this clinical experience of
 
 Across medical history, Han–Tang formula traditions, and classical acupuncture, the scholars and authors frequently consulted include 山田慶兒、真柳誠、李伯聰、憶忘（王庶）、廖育群、應志鵬、李建民、黃龍祥、陳曉輝、顧漫、范家偉.
 
+### Recommended viewing
+
+[YYWE’s Jingfang Channel](https://www.youtube.com/@yywe1182) features discussions of jingfang concepts, the relationship between jingfang and the medical classics, and the Bian Que tradition.
+
 <details>
 <summary><strong>中文</strong></summary>
 
@@ -50,6 +54,10 @@ Across medical history, Han–Tang formula traditions, and classical acupuncture
 ### 閱讀與學術參考
 
 在醫史文獻、漢唐經方與古典針灸方面，平時較常參考山田慶兒、真柳誠、李伯聰、憶忘（王庶）、廖育群、應志鵬、李建民、黃龍祥、陳曉輝、顧漫、范家偉等人的著述。
+
+### 推薦觀看
+
+可參考 [YYWE 的經方頻道](https://www.youtube.com/@yywe1182)，內容包括經方概念、經方與醫經的關係，以及扁鵲學派。
 
 </details>
 
@@ -78,8 +86,8 @@ Across medical history, Han–Tang formula traditions, and classical acupuncture
 
 医史文献、漢唐の経方、古典鍼灸について、山田慶兒、真柳誠、李伯聰、憶忘（王庶）、廖育群、應志鵬、李建民、黃龍祥、陳曉輝、顧漫、范家偉らの著作を参照しています。
 
+### おすすめ
+
+[YYWEの経方チャンネル](https://www.youtube.com/@yywe1182)では、経方の概念、経方と医経の関係、扁鵲学派などを取り上げています。
+
 </details>
-
-## Recommended viewing
-
-[YYWE’s Jingfang Channel](https://www.youtube.com/@yywe1182) — Chinese-language discussions of jingfang concepts, the relationship between jingfang and the medical classics, and the Bian Que tradition.
